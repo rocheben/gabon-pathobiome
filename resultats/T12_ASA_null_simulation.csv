@@ -1,0 +1,7 @@
+"set","null","false_positive_rate_envelope","false_positive_rate_BH"
+"S1","global",0.46,0.46
+"S5","global",0.42,0.46
+"S1","vill_age",0.12,0.08
+"S5","vill_age",0,0
+"S1","village",0.12,0.1
+"S5","village",0.1,0

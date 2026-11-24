@@ -1,0 +1,4 @@
+"test","estimate","p"
+"Wilcoxon OD malaria+ vs - among IgG negatives",NA,4.12204903639572e-09
+"Wilcoxon OD malaria+ vs - among IgG positives",NA,0.108219087053603
+"LMM log(OD) ~ malaria among IgG negatives (ratio)",1.17966733146189,0.000279682842220108

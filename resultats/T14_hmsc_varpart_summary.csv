@@ -1,0 +1,37 @@
+"pathogen","component","share"
+"CHIKV","Ecosystem",0.064679586799231
+"DENV","Ecosystem",0.51387984344887
+"EBOV IgG","Ecosystem",0.554899966850371
+"HCV","Ecosystem",0.138327033062772
+"HTLV","Ecosystem",0.176375742944659
+"L. loa","Ecosystem",0.192984021196818
+"M. perstans","Ecosystem",0.106031565774472
+"Plasmodium spp.","Ecosystem",0.117161516557012
+"RVFV","Ecosystem",0.38703590948373
+"CHIKV","Host (age, sex)",0.50958599653893
+"DENV","Host (age, sex)",0.225767713601568
+"EBOV IgG","Host (age, sex)",0.0915762426776918
+"HCV","Host (age, sex)",0.703375551219342
+"HTLV","Host (age, sex)",0.237998626803163
+"L. loa","Host (age, sex)",0.542780735607552
+"M. perstans","Host (age, sex)",0.0619552699056723
+"Plasmodium spp.","Host (age, sex)",0.0164684878600229
+"RVFV","Host (age, sex)",0.317899563728797
+"CHIKV","Individual (latent)",0.0833718358062001
+"DENV","Individual (latent)",0.18087450486629
+"EBOV IgG","Individual (latent)",0.311247230921177
+"HCV","Individual (latent)",0.0151256320130185
+"HTLV","Individual (latent)",0.334100210887054
+"L. loa","Individual (latent)",0.0522044635697311
+"M. perstans","Individual (latent)",0.0164417709191471
+"Plasmodium spp.","Individual (latent)",0.367735515074532
+"RVFV","Individual (latent)",0.245548665636397
+"CHIKV","Village (latent)",0.342362580855641
+"DENV","Village (latent)",0.0794779380832732
+"EBOV IgG","Village (latent)",0.0422765595507599
+"HCV","Village (latent)",0.143171783704867
+"HTLV","Village (latent)",0.251525419365123
+"L. loa","Village (latent)",0.212030779625897
+"M. perstans","Village (latent)",0.815571393400711
+"Plasmodium spp.","Village (latent)",0.498634480508434
+"RVFV","Village (latent)",0.0495158611510741
